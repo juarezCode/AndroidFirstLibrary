@@ -1,0 +1,3 @@
+include ':simplemathoperations'
+include ':app'
+rootProject.name = "AndroidLib"
